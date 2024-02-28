@@ -1,1 +1,1 @@
-econometric model with r
+econometric models with r
